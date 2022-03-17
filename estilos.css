@@ -34,7 +34,7 @@ body {
     height: 0px;
     right: 0;
     list-style: none;
-    background: #0000EC;
+    background: grey;
     overflow: hidden;
     transition: 1s;
     
@@ -73,7 +73,7 @@ input[type="checkbox"]:checked~ul {
     width: 25px;
     height: 3px;
     margin-bottom: 5px;
-    background: #0000EC;
+    background: grey;
 }
 
 .menu_elementos span:first-child {
