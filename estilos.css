@@ -17,7 +17,7 @@ body {
     min-height: 50px;
     padding: 10px 30px;
     padding-left: 20px;
-    background: #fff;
+    background: #DCDFD9;
     display: flex;
     justify-content: space-between;
     position: fixed;
@@ -219,7 +219,7 @@ input[type="checkbox"]:checked~ul {
         top: 0;
         right: 10px;
         width: auto;
-        background: white;
+        background: #DCDFD9;
     }
     .cabecera nav ul li a {
         text-decoration: none;
